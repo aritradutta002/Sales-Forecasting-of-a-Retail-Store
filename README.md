@@ -1,1 +1,10 @@
-# Sales-Forecasting-of-a-Retail-Store
+Analysis of Retail Dataset
+Conventional retail stores still play a prominent role in a world dominated by E-commerce. Retail is the process of selling consumer goods or services to customers through multiple channels of distribution to earn a profit. From groceries to clothing to electronics, customers keep flooding the gates of retail stores to satisfy their needs. As time has passed, retailers have had to evolve in order to keep up with changes in demands and the ever-changing mindset of customers.
+One such retail industry juggernaut that has kept up with the demands of customers as well changed the face of the retail industry for the better is Walmart Inc.
+Walmart Inc is an American multinational retail corporation that operates a chain of hypermarkets, discount department stores, and grocery stores, headquartered in Bentonville, Arkansas. They have many stores across the globe and it is the largest retail company by revenue.
+This dataset contains historical department wise sales data of 45 Walmart stores located in different regions. Walmart also organizes a few promotional markdown events throughout the year. These markdowns are organized before the prominent festivals, like Thanksgiving, Christmas etc. It also includes other factors like markdowns, temperature, CPI (Consumer Price Index), unemployment and the store size.
+Problem Statements
+1. Analyzing the effect of Markdowns, Temperature, CPI, Unemployment and Size of the store on the sales
+How does the various factors such as markdowns(discounts), temperature(weather), CPI (Consumer Price Index), unemployment and the store size affect the increase or decrease of sales in various stores? Which departments are more affected with these factors, and which departments never fail to perform?
+2. Weekly and Monthly Sales, and the department wise sales prediction for each store
+Predicting the weekly and monthly sales across various stores, and finding out which factors are more significant in the prediction of the sales. Predicting the department wise sales, to understand which departments have larger impact on the overall sales of the stores.
